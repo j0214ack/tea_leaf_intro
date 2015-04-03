@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-03-20T17:31:07+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/20/1639215/ftc-google-altered-search-results-for-profit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/03/20/1527251/every-browser-hacked-at-pwn2own-2015-hp-pays-out-557500-in-awards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/20/1443253/giant-lava-tubes-possible-on-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/03/20/1340204/hideo-kojima-to-depart-konami-metal-gear-franchise-changing-hands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/03/20/1337237/german-vice-chancellor-the-us-threatened-us-over-snowden?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/20/1243223/at-least-700000-routers-given-to-customers-by-isps-are-vulnerable-to-hacking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/20/1237234/scientists-its-time-to-resolve-the-ethics-of-editing-human-genome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/03/20/0115202/leaked-document-reveals-upcoming-biometric-experiments-at-us-customs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/20/0259208/amazon-launches-one-hour-delivery-service-in-baltimore-and-miami?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/03/20/014259/target-to-pay-10-million-in-proposed-settlement-for-2013-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/03/20/033240/nz-customs-wants-power-to-require-passwords?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/19/231209/tag-heuer-partners-with-google-and-intel-to-create-luxury-apple-watch-rival?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/19/2250245/fake-suicide-attempt-tests-facebook-prevention-tool-lands-man-in-asylum?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/19/2243244/amazon-wins-us-regulators-approval-to-test-fly-drone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/03/19/2235229/why-is-the-grand-theft-auto-ceo-also-chairman-of-the-esrb?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://tech.slashdot.org/story/15/03/20/1639215/ftc-google-altered-search-results-for-profit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FTC: Google Altered Search Results For Profit</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/n3HRZnir4n0/ftc-google-altered-search-results-for-profit</link>
+<description>mi writes: We've always suspected that Google might tweak its search algorithms to gain an advantage over its rivals &amp;mdash; and, according to an FTC investigation inadvertently shared with the Wall Street Journal, it did. Quoting: "In a lengthy investigation, staffers in the FTC's bureau of competition found evidence that Google boosted its own services for shopping, travel and local businesses by altering its ranking criteria and "scraping" content from other sites. It also deliberately demoted rivals. For example, the FTC staff noted that Google presented results from its flight-search tool ahead of other travel sites, even though Google offered fewer flight options. Google's shopping results were ranked above rival comparison-shopping engines, even though users didn't click on them at the same rate, the staff found. Many of the ways Google boosted its own results have not been previously disclosed.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FTC%3A+Google+Altered+Search+Results+For+Profit%3A+http%3A%2F%2Fbit.ly%2F1AQ6PnL"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F20%2F1639215%2Fftc-google-altered-search-results-for-profit%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/20/1639215/ftc-google-altered-search-results-for-profit?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/20/1639215/ftc-google-altered-search-results-for-profit?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7131891&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/n3HRZnir4n0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-20T17:01:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>shareholder-value</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,36,21,18,5,3,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/20/1639215/ftc-google-altered-search-results-for-profit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/03/20/1527251/every-browser-hacked-at-pwn2own-2015-hp-pays-out-557500-in-awards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Every Browser Hacked At Pwn2own 2015, HP Pays Out  $557,500 In Awards</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zgo_R-IEO80/every-browser-hacked-at-pwn2own-2015-hp-pays-out-557500-in-awards</link>
+<description>darthcamaro writes: Every year, browser vendors patch their browsers ahead of the annual HP Pwn2own browser hacking competition in a bid to prevent exploitation. The sad truth is that it's never enough. This year, security researchers were able to exploit fully patched versions of Mozilla Firefox, Google Chrome, Microsoft Internet Explorer 11 and Apple Safari in record time. For their efforts, HP awarded researchers $557,500. Is it reasonable to expect browser makers to hold their own in an arms race against exploits? "Every year, we run the competition, the browsers get stronger, but attackers react to changes in defenses by taking different, and sometimes unexpected, approaches," Brian Gorenc manager of vulnerability research for HP Security Research said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Every+Browser+Hacked+At+Pwn2own+2015%2C+HP+Pays+Out++%24557%2C500+In+Awards%3A+http%3A%2F%2Fbit.ly%2F1DFwUvX"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F03%2F20%2F1527251%2Fevery-browser-hacked-at-pwn2own-2015-hp-pays-out-557500-in-awards%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/03/20/1527251/every-browser-hacked-at-pwn2own-2015-hp-pays-out-557500-in-awards?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/03/20/1527251/every-browser-hacked-at-pwn2own-2015-hp-pays-out-557500-in-awards?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7131623&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/zgo_R-IEO80" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-20T16:22:00+00:00</dc:date>
+<dc:subject>chrome</dc:subject>
+<slash:department>another-four-bite-the-dust</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>62</slash:comments>
+<slash:hit_parade>62,58,34,31,9,3,0</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/03/20/1527251/every-browser-hacked-at-pwn2own-2015-hp-pays-out-557500-in-awards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/20/1443253/giant-lava-tubes-possible-on-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Giant Lava Tubes Possible On the Moon</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cVoEsWmD0xU/giant-lava-tubes-possible-on-the-moon</link>
+<description>schwit1 writes: New analysis of lunar geology combined with gravity data from GRAIL suggests the Moon could harbor lava tubes several miles wide. "David Blair, a graduate student in Purdue's Department of Earth, Atmospheric and Planetary Sciences, led the study that examined whether empty lava tubes more than 1 kilometer wide could remain structurally stable on the moon. 'We found that if lunar lava tubes existed with a strong arched shape like those on Earth, they would be stable at sizes up to 5,000 meters, or several miles wide, on the moon,' Blair said. 'This wouldn't be possible on Earth, but gravity is much lower on the moon and lunar rock doesn't have to withstand the same weathering and erosion. In theory, huge lava tubes &amp;ndash; big enough to easily house a city &amp;ndash; could be structurally sound on the moon.'" You can read their paper here (PDF). If this is so, then the possibility of huge colonies on the Moon increases significantly, as it will be much easier to build these colonies inside such lava tubes.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Giant+Lava+Tubes+Possible+On+the+Moon%3A+http%3A%2F%2Fbit.ly%2F199r6wR"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F20%2F1443253%2Fgiant-lava-tubes-possible-on-the-moon%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/20/1443253/giant-lava-tubes-possible-on-the-moon?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/20/1443253/giant-lava-tubes-possible-on-the-moon?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7131471&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/cVoEsWmD0xU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-20T15:40:00+00:00</dc:date>
+<dc:subject>moon</dc:subject>
+<slash:department>where-else-would-the-space-worms-hide</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>54</slash:comments>
+<slash:hit_parade>54,52,36,33,9,6,4</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/20/1443253/giant-lava-tubes-possible-on-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/03/20/1340204/hideo-kojima-to-depart-konami-metal-gear-franchise-changing-hands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Hideo Kojima To Depart Konami; Metal Gear Franchise Changing Hands</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KHDyDPsn3ew/hideo-kojima-to-depart-konami-metal-gear-franchise-changing-hands</link>
+<description>An anonymous reader writes: Metal Gear creator Hideo Kojima is set to leave the video game publisher Konami, ending 29 years of service. Konami had announced a restructuring earlier this year, and observant fans recently noticed the removal of references to Kojima Productions from the company's web site. A source speaking to Gamespot states that both developments are the result of a "power struggle" between the studio and its parent. Konami has now confirmed to the English-speaking press that Kojima will work on The Phantom Pain until it is completed, but they are searching for new staff to take over the Metal Gear series. Kojima's only other announced project was Silent Hills, a horror game created in collaboration with Guillermo del Toro.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Hideo+Kojima+To+Depart+Konami%3B+Metal+Gear+Franchise+Changing+Hands%3A+http%3A%2F%2Fbit.ly%2F1H90w2k"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F03%2F20%2F1340204%2Fhideo-kojima-to-depart-konami-metal-gear-franchise-changing-hands%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/03/20/1340204/hideo-kojima-to-depart-konami-metal-gear-franchise-changing-hands?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/03/20/1340204/hideo-kojima-to-depart-konami-metal-gear-franchise-changing-hands?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7131277&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/KHDyDPsn3ew" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-20T14:57:00+00:00</dc:date>
+<dc:subject>games</dc:subject>
+<slash:department>jumping-the-solid-shark</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>20</slash:comments>
+<slash:hit_parade>20,18,7,7,3,2,2</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/03/20/1340204/hideo-kojima-to-depart-konami-metal-gear-franchise-changing-hands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/03/20/1337237/german-vice-chancellor-the-us-threatened-us-over-snowden?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>German Vice Chancellor: the US Threatened Us Over Snowden</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VlVJfLhhgko/german-vice-chancellor-the-us-threatened-us-over-snowden</link>
+<description>siddesu sends this report from The Intercept:
+German Vice Chancellor Sigmar Gabriel said this week in Homburg that the U.S. government threatened to cease sharing intelligence with Germany if Berlin offered asylum to NSA whistleblower Edward Snowden or otherwise arranged for him to travel to that country. 'They told us they would stop notifying us of plots and other intelligence matters,' Gabriel said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=German+Vice+Chancellor%3A+the+US+Threatened+Us+Over+Snowden%3A+http%3A%2F%2Fbit.ly%2F1DF7dM1"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F03%2F20%2F1337237%2Fgerman-vice-chancellor-the-us-threatened-us-over-snowden%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/03/20/1337237/german-vice-chancellor-the-us-threatened-us-over-snowden?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/03/20/1337237/german-vice-chancellor-the-us-threatened-us-over-snowden?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7131271&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/VlVJfLhhgko" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-20T14:15:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>apparently-that-works-pretty-well</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>190</slash:comments>
+<slash:hit_parade>190,185,126,102,36,22,15</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/03/20/1337237/german-vice-chancellor-the-us-threatened-us-over-snowden?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/20/1243223/at-least-700000-routers-given-to-customers-by-isps-are-vulnerable-to-hacking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>At Least 700,000 Routers Given To Customers By ISPs Are Vulnerable To Hacking</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gquvpY5R3J0/at-least-700000-routers-given-to-customers-by-isps-are-vulnerable-to-hacking</link>
+<description>itwbennett writes: More than 700,000 ADSL routers provided to customers by ISPs around the world contain serious flaws that allow remote hackers to take control of them. Most of the routers have a 'directory traversal' flaw in a firmware component called webproc.cgi that allows hackers to extract sensitive configuration data, including administrative credentials. The flaw isn't new and has been reported by multiple researchers since 2011 in various router models.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=At+Least+700%2C000+Routers+Given+To+Customers+By+ISPs+Are+Vulnerable+To+Hacking%3A+http%3A%2F%2Fbit.ly%2F1H8BlwL"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F20%2F1243223%2Fat-least-700000-routers-given-to-customers-by-isps-are-vulnerable-to-hacking%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/20/1243223/at-least-700000-routers-given-to-customers-by-isps-are-vulnerable-to-hacking?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/20/1243223/at-least-700000-routers-given-to-customers-by-isps-are-vulnerable-to-hacking?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7131061&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/gquvpY5R3J0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-20T13:33:00+00:00</dc:date>
+<dc:subject>networking</dc:subject>
+<slash:department>seeds-of-a-class-action</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>73</slash:comments>
+<slash:hit_parade>73,71,46,40,17,11,4</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/20/1243223/at-least-700000-routers-given-to-customers-by-isps-are-vulnerable-to-hacking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/20/1237234/scientists-its-time-to-resolve-the-ethics-of-editing-human-genome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Scientists: It's Time To Resolve the Ethics of Editing Human Genome</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/g62zA-uAsKk/scientists-its-time-to-resolve-the-ethics-of-editing-human-genome</link>
+<description>An anonymous reader writes: We've previously discussed a system called CRISPR-cas9, which is dramatically reducing the cost and effort required to do gene editing. In fact, the barrier to entry is now so low that a group of biologists is calling for a moratorium on using the method to modify the human genome. Writing in the journal Science (abstract), the scientists warn that we've reached the point where the ethical questions surrounding DNA alteration can be put off no longer. David Baltimore, one of the group's members, said, "You could exert control over human heredity with this technique, and that is why we are raising the issue. ... I personally think we are just not smart enough &amp;mdash; and won't be for a very long time &amp;mdash; to feel comfortable about the consequences of changing heredity, even in a single individual." Another group of scientists called for a similar halt to human germline modification, and the International Society for Stem Cell Research says it agrees.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Scientists%3A+It's+Time+To+Resolve+the+Ethics+of+Editing+Human+Genome%3A+http%3A%2F%2Fbit.ly%2F19EWZyx"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F20%2F1237234%2Fscientists-its-time-to-resolve-the-ethics-of-editing-human-genome%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/20/1237234/scientists-its-time-to-resolve-the-ethics-of-editing-human-genome?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/20/1237234/scientists-its-time-to-resolve-the-ethics-of-editing-human-genome?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7131031&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/g62zA-uAsKk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-20T12:50:00+00:00</dc:date>
+<dc:subject>biotech</dc:subject>
+<slash:department>but-we-haven't-created-a-real-spiderman-yet</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>190</slash:comments>
+<slash:hit_parade>190,187,131,119,21,9,5</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/20/1237234/scientists-its-time-to-resolve-the-ethics-of-editing-human-genome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/03/20/0115202/leaked-document-reveals-upcoming-biometric-experiments-at-us-customs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Leaked Document Reveals Upcoming Biometric Experiments At US Customs</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/s8NimEcoPwU/leaked-document-reveals-upcoming-biometric-experiments-at-us-customs</link>
+<description>sarahnaomi sends word of new biometric technologies coming to U.S. entry points. "The facial recognition pilot program launched last week by U.S. Customs and Border Protection, which civil liberties advocates say could lead to new potentially privacy-invading programs, is just the first of three biometric experiments that the feds are getting ready to launch. The three experiments involve new controversial technologies like iris and face scanner kiosks, which CBP plans to deploy at the Mexican border, and facial recognition software, according to a leaked document obtained by Motherboard. All three pilots are part of a broader Customs and Border Protection program to modernize screenings at American entry and exit ports, including at the highly politicized Mexican border, with the aid of new biometric technologies. The program is known as Apex Air Entry and Exit Re-Engineering Project, according to the leaked slides. These pilot programs have the goal of "identifying and implementing" biometric technologies that can be used at American borders to improve the immigration system as well as US national security, according to the slides."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Leaked+Document+Reveals+Upcoming+Biometric+Experiments+At+US+Customs%3A+http%3A%2F%2Fbit.ly%2F199au8p"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F03%2F20%2F0115202%2Fleaked-document-reveals-upcoming-biometric-experiments-at-us-customs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/03/20/0115202/leaked-document-reveals-upcoming-biometric-experiments-at-us-customs?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/03/20/0115202/leaked-document-reveals-upcoming-biometric-experiments-at-us-customs?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7127835&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/s8NimEcoPwU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-20T12:08:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>scan-me</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,65,39,29,11,7,5</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/03/20/0115202/leaked-document-reveals-upcoming-biometric-experiments-at-us-customs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/20/0259208/amazon-launches-one-hour-delivery-service-in-baltimore-and-miami?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title> Amazon Launches One-Hour Delivery Service In Baltimore and Miami</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CQFlw6f196w/amazon-launches-one-hour-delivery-service-in-baltimore-and-miami</link>
+<description>schwit1 writes Amazon.com announced the launch Thursday of its one-hour delivery service, Prime Now, in select zip codes in Baltimore and Miami. It initially launched in Manhattan in December. The one-hour service, available to Amazon Prime subscribers through the Prime Now mobile app, costs $7.99. Two-hour delivery is free. From the article: "Amazon Prime's success has blown away the company's projections and 'petrified' local and national retailers, said Howard Davidowitz, chairman of Davidowitz &amp;amp; Associates, a national retail consulting and investment banking firm headquartered in New York City. 'If you're a retailer and you're not scared of Amazon ... you should be,' he said. 'They are the change agent. They are leading the change in retail.'"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=+Amazon+Launches+One-Hour+Delivery+Service+In+Baltimore+and+Miami%3A+http%3A%2F%2Fbit.ly%2F1xlDYMl"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F20%2F0259208%2Famazon-launches-one-hour-delivery-service-in-baltimore-and-miami%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/20/0259208/amazon-launches-one-hour-delivery-service-in-baltimore-and-miami?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/20/0259208/amazon-launches-one-hour-delivery-service-in-baltimore-and-miami?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7128069&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/CQFlw6f196w" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-20T09:34:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>but-I-want-it-now</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>86</slash:comments>
+<slash:hit_parade>86,84,70,56,18,13,7</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/20/0259208/amazon-launches-one-hour-delivery-service-in-baltimore-and-miami?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/03/20/014259/target-to-pay-10-million-in-proposed-settlement-for-2013-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Target To Pay $10 Million In Proposed Settlement For 2013 Data Breach</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cxPmdItl79Y/target-to-pay-10-million-in-proposed-settlement-for-2013-data-breach</link>
+<description>itwbennett writes Target has agreed to pay $10 million in a proposed settlement to a class-action lawsuit stemming from its massive 2013 data breach, which affected as many as 110 million people. Individual victims could receive up to $10,000. The proposed settlement also includes measures to better protect the customer data that Target collects, according to documents filed with the U.S. District Court, District of Minnesota.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Target+To+Pay+%2410+Million+In+Proposed+Settlement+For+2013+Data+Breach%3A+http%3A%2F%2Fbit.ly%2F1xE3XsG"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F03%2F20%2F014259%2Ftarget-to-pay-10-million-in-proposed-settlement-for-2013-data-breach%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/03/20/014259/target-to-pay-10-million-in-proposed-settlement-for-2013-data-breach?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/03/20/014259/target-to-pay-10-million-in-proposed-settlement-for-2013-data-breach?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7127797&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/cxPmdItl79Y" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-20T07:03:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>pay-up</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>45</slash:comments>
+<slash:hit_parade>45,40,24,20,11,6,4</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/03/20/014259/target-to-pay-10-million-in-proposed-settlement-for-2013-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/03/20/033240/nz-customs-wants-power-to-require-passwords?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NZ Customs Wants Power To Require Passwords</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BggSuCiBRTM/nz-customs-wants-power-to-require-passwords</link>
+<description>First time accepted submitter Orange Roughy writes New Zealand customs are seeking powers to obtain passwords and encryption keys for travelers. Supposedly they will only act to obtain credentials if it was acting on 'some intelligence or observation of abnormal behaviour.' People who refuse to hand over credentials could face up to three months jail time. From the story: "Customs boss Carolyn Tremain has told MPs the department would only request travellers hand over passwords to their electronic devices if it had a reason to be suspicious about what was on them. The department unleashed a furore last week when it said in a discussion paper that it should be given unrestricted power to force people to divulge passwords to their smartphones and computers at the border. That would be without Customs officials having to show they had any grounds for suspicion."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NZ+Customs+Wants+Power+To+Require+Passwords%3A+http%3A%2F%2Fbit.ly%2F1BVMXST"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F03%2F20%2F033240%2Fnz-customs-wants-power-to-require-passwords%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/03/20/033240/nz-customs-wants-power-to-require-passwords?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/03/20/033240/nz-customs-wants-power-to-require-passwords?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7128077&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/BggSuCiBRTM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-20T05:49:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>papers-please</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>167</slash:comments>
+<slash:hit_parade>167,164,97,78,29,15,7</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/03/20/033240/nz-customs-wants-power-to-require-passwords?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/19/231209/tag-heuer-partners-with-google-and-intel-to-create-luxury-apple-watch-rival?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tag Heuer Partners With Google and Intel To Create Luxury Apple Watch Rival</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CrCSylUxYis/tag-heuer-partners-with-google-and-intel-to-create-luxury-apple-watch-rival</link>
+<description>An anonymous reader writes Luxury Swiss watchmaker Tag Heuer has announced it will be designing a smartwatch in partnership with U.S. tech giants Google and Intel. The watch is to rival similar devices in the consumer wearables market, specifically the much-anticipated Apple Watch. Tag is the first watchmaker to join with Google, however it is thought the deal will also welcome collaborations with other high-quality LVMH brands, such as Hublot and Zenith. The watch will be available toward the end of the year, with price structures and functionality details announced shortly before its release.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tag+Heuer+Partners+With+Google+and+Intel+To+Create+Luxury+Apple+Watch+Rival%3A+http%3A%2F%2Fbit.ly%2F1MSxXYN"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F19%2F231209%2Ftag-heuer-partners-with-google-and-intel-to-create-luxury-apple-watch-rival%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/19/231209/tag-heuer-partners-with-google-and-intel-to-create-luxury-apple-watch-rival?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/19/231209/tag-heuer-partners-with-google-and-intel-to-create-luxury-apple-watch-rival?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7127607&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/CrCSylUxYis" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-20T04:29:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>things-you-don't-need</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>87</slash:comments>
+<slash:hit_parade>87,84,56,47,13,5,3</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/19/231209/tag-heuer-partners-with-google-and-intel-to-create-luxury-apple-watch-rival?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/19/2250245/fake-suicide-attempt-tests-facebook-prevention-tool-lands-man-in-asylum?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Fake Suicide Attempt Tests Facebook Prevention Tool, Lands Man In Asylum</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/XPXUi0mcFeU/fake-suicide-attempt-tests-facebook-prevention-tool-lands-man-in-asylum</link>
+<description>First time accepted submitter abhishekmdb writes Shane Tusch faked his suicide in an attempt to test the authenticity of Facebook suicide prevention tool and got detained for 72 hours. Facebook has rolled out a set of tools to keep a check on its users who are having suicidal tendencies and prevent these users from suicidal attempts. In case some user is having suicidal thoughts and mentions that in the Facebook posts and if a friend of that user reports it to Facebook then a third party will immediately review the post and Facebook would lock the suicidal user's account and the user will be made to read Facebook's suicide prevention materials.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Fake+Suicide+Attempt+Tests+Facebook+Prevention+Tool%2C+Lands+Man+In+Asylum%3A+http%3A%2F%2Fbit.ly%2F1GwHLWB"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F19%2F2250245%2Ffake-suicide-attempt-tests-facebook-prevention-tool-lands-man-in-asylum%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/19/2250245/fake-suicide-attempt-tests-facebook-prevention-tool-lands-man-in-asylum?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/19/2250245/fake-suicide-attempt-tests-facebook-prevention-tool-lands-man-in-asylum?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7127585&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/XPXUi0mcFeU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-20T02:04:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>I-guess-it-worked</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>251</slash:comments>
+<slash:hit_parade>251,244,147,127,34,15,10</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/19/2250245/fake-suicide-attempt-tests-facebook-prevention-tool-lands-man-in-asylum?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/19/2243244/amazon-wins-us-regulators-approval-to-test-fly-drone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Amazon Wins US Regulators' Approval To Test-fly Drone</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gQd-CzAfjMg/amazon-wins-us-regulators-approval-to-test-fly-drone</link>
+<description>mpicpp sends word that Amazon drones may soon deliver your packages. "Amazon.com Inc has won U.S. federal regulators' approval to test a delivery drone, as the e-commerce giant pursues a vision of speeding packages to customers through the air amid public concern over the safety and privacy implications. The Federal Aviation Administration said on Thursday it had issued an experimental airworthiness certificate to an Amazon unit and its prototype drone design, allowing it to conduct outdoor test flights on private, rural land in Washington state. The experimental certificate applies to a particular drone design and Amazon must obtain a new certification for test flights if it modifies the drone. In return, the company must supply monthly data to the regulators, and conduct flights at 400 feet (120 meters) or below and in 'visual meteorological conditions,' according to the FAA's certificate. The drone operators must also have a private pilots' license and current medical certification."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Amazon+Wins+US+Regulators'+Approval+To+Test-fly+Drone%3A+http%3A%2F%2Fbit.ly%2F1BDI5yc"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F19%2F2243244%2Famazon-wins-us-regulators-approval-to-test-fly-drone%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/19/2243244/amazon-wins-us-regulators-approval-to-test-fly-drone?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/19/2243244/amazon-wins-us-regulators-approval-to-test-fly-drone?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7127573&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/gQd-CzAfjMg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-20T00:12:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>dropping-your-package</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>83</slash:comments>
+<slash:hit_parade>83,81,60,51,19,8,4</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/19/2243244/amazon-wins-us-regulators-approval-to-test-fly-drone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/03/19/2235229/why-is-the-grand-theft-auto-ceo-also-chairman-of-the-esrb?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why Is the Grand Theft Auto CEO Also Chairman of the ESRB?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gqMIZGPQcC8/why-is-the-grand-theft-auto-ceo-also-chairman-of-the-esrb</link>
+<description>donniebaseball23 writes In an editorial at GamesIndustry.biz, Brendan Sinclair asks an important question about the game ratings board in America. Should Strauss Zelnick, the CEO of Take-Two, which owns the Grand Theft Auto franchise and has been at the heart of the ESRB's biggest controversies of the last decade, really be serving as its chairman? "No matter how removed from the day-to-day running of the ESRB Zelnick might be, his current role invites accusations of impropriety," he writes. "It's the sort of thing any critic of the games industry can point to as a clear conflict of interest, and many reasonable outsiders would probably look at that as a valid complaint. At least when titans of industry in the U.S. become the head of the regulatory agencies that oversee their former companies, they actually have to leave those companies."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+Is+the+Grand+Theft+Auto+CEO+Also+Chairman+of+the+ESRB%3F%3A+http%3A%2F%2Fbit.ly%2F1xkxcpX"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F03%2F19%2F2235229%2Fwhy-is-the-grand-theft-auto-ceo-also-chairman-of-the-esrb%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/03/19/2235229/why-is-the-grand-theft-auto-ceo-also-chairman-of-the-esrb?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/03/19/2235229/why-is-the-grand-theft-auto-ceo-also-chairman-of-the-esrb?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7127551&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/gqMIZGPQcC8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-19T23:42:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>fox-in-the-hen-house</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>116</slash:comments>
+<slash:hit_parade>116,111,82,68,27,16,7</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/03/19/2235229/why-is-the-grand-theft-auto-ceo-also-chairman-of-the-esrb?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
